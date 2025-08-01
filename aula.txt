@@ -6,3 +6,6 @@ essa linha eu fiz no vs code e vou fazer o commit sem precisar usar um monte de 
 porque no passado sofremos bastante para decorar e ainda sofresmos com o git.
 
 testar novamente
+
+
+mais um teste agora apenas pelo visual studio code apelidado carinhosamente de vs code
